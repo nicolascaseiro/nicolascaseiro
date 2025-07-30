@@ -37,7 +37,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolascaseiro/)
 
-📧 *Email:* [nicolascaseirodeabreu@gmail.com](nicolascaseirodeabreu@gmail.com)  
+📧 Email: [nicolascaseirodeabreu@gmail.com](nicolascaseirodeabreu@gmail.com)  
 
 ---
 
