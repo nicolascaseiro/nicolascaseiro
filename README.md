@@ -28,7 +28,8 @@
 
 <img height="180em" alt="image" src="https://github.com/user-attachments/assets/ae73f631-6f72-4c2f-9d55-8d018477e841" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascaseiro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+<img height="180em" alt="image" src="https://github.com/user-attachments/assets/f743205e-3985-49ba-b16c-6243841ec7e2" />
+
 
 </div>
 
