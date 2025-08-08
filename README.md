@@ -30,7 +30,7 @@
 
 <img height="195" alt="image" src="https://github.com/user-attachments/assets/d4f20149-649b-44f2-bd0a-c0bfacbc294c" />
 
-<img height="180" alt="image" src="https://github.com/user-attachments/assets/e893e257-52bc-4c36-84b7-962a361f72f7" />
+<img height="180" alt="image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascaseiro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 
 </div>
 
