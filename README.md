@@ -29,7 +29,7 @@
 
 <img height="195" alt="image" src="https://github-readme-stats.vercel.app/api?username=nicolascaseiro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 
-<img height="180" alt="image" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascaseiro&theme=vue-dark&show_icons=true&hide_border=true&l](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascaseiro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+<img height="180" alt="image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascaseiro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 
 </div>
 
