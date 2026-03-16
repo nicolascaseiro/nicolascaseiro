@@ -32,23 +32,8 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="195" alt="image" src="https://github-readme-stats.vercel.app/api?username=nicolascaseiro&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
-
-<img height="180" alt="image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascaseiro&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
-
-</div>
-
----
 ## 📫 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolascaseiro/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolascaseirodeabreu@gmail.com)  
 
----
-
-<p align="center"><i>"O homem é lobo do homem."</i></p>
