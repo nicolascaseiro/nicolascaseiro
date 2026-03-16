@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=2ECC71&vCenter=true&width=480&lines=🧠+Olá!+Sou+Nicolas+Caseiro!;👨‍💻+Desenvolvedor+da+Resenha!)](https://git.io/typing-svg)
 
 > - 🎓 **Cursando Ciência da Computação na UERJ**
-> - 💻 **Técnico em Desenvolvimento de Sistemas no Colégio Pedro II**
+> - 💻 **Técnico em Desenvolvimento de Sistema no Colégio Pedro II**
 > - 🎲 **Foco em Análise de Dados**
 > - ⚙️ **Estudando Desenvolvimento Full Stack**
 
