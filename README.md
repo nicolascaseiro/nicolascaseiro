@@ -1,15 +1,9 @@
-<h1 align="center">👋 Olá, eu sou o Nicolas Caseiro!</h1>
-
-<p align="center">
-  🎓 Ciência da Computação - UERJ &nbsp;|&nbsp;
-  💻 Técnico em Desenvolvimento de Sistemas - Colégio Pedro II <br>
-</p>
----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=8F41D2&vCenter=true&width=435&lines=%F0%9F%9A%80+Ol%C3%A1!+Sou+Lucas+Moura!;%F0%9F%8C%90+Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
+[Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=8F41D2&vCenter=true&width=435&lines=%F0%9F%9A%80+Ol%C3%A1!+Sou+Nicolas+Caseiro!;%F0%9F%8C%90+Cientista+da-Computação)(https://git.io/typing-svg)
 
 > - 🎓 **Cursando Ciência da Computação na UERJ**
-> - ⚙️ **Foco em Desenvolvimento Full Stack**
-> - 🎲 **Estudando Análise de Dados**
+> - 💻 **Técnico em Desenvolvimento de Sistemas no Colégio Pedro II**
+> - ⚙️ **Foco em Análise de Dados**
+> - 🎲 **Estudando Desenvolvimento Full Stack**
 
 ## 📊 GitHub Insights:
 
