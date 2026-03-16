@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00FF9C&vCenter=true&width=435&lines=%F0%9F%9A%80+Ol%C3%A1!+Sou+Nicolas+Caseiro!;%F0%9F%8C%90+Desenvolvedor+da+Resenha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00E676&vCenter=true&width=480&lines=👨‍💻+Olá!+Sou+Nicolas+Caseiro;🚀+Desenvolvedor+da+Resenha)](https://git.io/typing-svg)
 
 > - 🎓 **Cursando Ciência da Computação na UERJ**
 > - 💻 **Técnico em Desenvolvimento de Sistemas no Colégio Pedro II**
