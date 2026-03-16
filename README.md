@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&vCenter=true&width=435&lines=%F0%9F%9A%80+Ol%C3%A1!+Sou+Nicolas+Caseiro!;%F0%9F%8C%90+Desenvolvedor+da+Resenha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=FF7EDB&vCenter=true&width=435&lines=%F0%9F%9A%80+Ol%C3%A1!+Sou+Nicolas+Caseiro!;%F0%9F%8C%90+Desenvolvedor+da+Resenha)](https://git.io/typing-svg)
 
 > - 🎓 **Cursando Ciência da Computação na UERJ**
 > - 💻 **Técnico em Desenvolvimento de Sistemas no Colégio Pedro II**
@@ -9,9 +9,9 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=nicolascaseiro&theme=tokyonight&hide_border=false&border_radius=5&mode=weekly&card_height=200)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=nicolascaseiro&theme=synthwave&hide_border=false&border_radius=5&mode=weekly&card_height=200)](https://git.io/streak-stats)
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nicolascaseiro?cardType=level-alternate&theme=tokyonight&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nicolascaseiro?cardType=level-alternate&theme=synthwave&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
 
